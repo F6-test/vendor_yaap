@@ -23,6 +23,6 @@
     <string name="cert_fp">google/blazer_beta/blazer:CANARY/ZP11.260821.010/16290768:user/release-keys</string>
     <string name="cert_model">Pixel 10 Pro</string>
     <string name="cert_manufacturer">Google</string>
-    <string name="cert_spl">2026-09-05</string>
+    <string name="cert_spl">2026-10-05</string>
     <string name="cert_sdk">32</string>
 </resources>
